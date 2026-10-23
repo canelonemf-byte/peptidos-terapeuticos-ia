@@ -44,3 +44,6 @@ Los archivos `.trashed-*`, las copias («- copia») y los duplicados entre carpe
 Textos del paquete NotebookLM (Drive `NotebookLM_Fuentes_2026-08-30`) que no existían en este repositorio:
 
 - [docs/notebooklm/08_PEPTIDOS_NEURO.md](docs/notebooklm/08_PEPTIDOS_NEURO.md)
+
+## Referencias
+Ver [REFERENCIAS.md](REFERENCIAS.md).
